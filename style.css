@@ -1,0 +1,72 @@
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto Mono", monospace;
+    font-family: "Viaoda Libre", cursive;
+    background:#c7a3a3;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  h2 {
+    font-size: 60px;
+  }
+  
+
+  button{
+      padding-right: 50%;
+      width: 100px;
+      height: 100px;
+      
+  }
+  
+  
+  .container {
+    max-width: 1600px;
+    margin: 3em auto;
+    overflow: hidden;
+    display: flex;
+  }
+  
+
+  
+  
+  .section1 {
+    min-height: 100hv;
+    background-color: black;
+  }
+  
+  .container {
+    margin: 0 auto;
+    max-width: 1400px;
+  }
+  
+  /*logo*/
+  .color {
+    width: 60px;
+    height: 60px;
+    background: white;
+    
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100px;
+  }
+  
+  .Navigation {
+    width: 40%;
+    display: inline-block;
+  }
+  
+  .NavigationList {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  

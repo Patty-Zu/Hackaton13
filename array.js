@@ -8,8 +8,8 @@ mascota =[
     {id:7, nombre:"Nisha", telef:"245698", correo:"adopta.amor@gmailcom", descrip: "Es una perrita anciana ala espera de una familia que la quiera mucho."},
 ]
 
-mascota.map(function(mascota){
-    console.log(mascota.id+" - "+mascota.nombre+" - "+mascota.descrip+" - ")
-});
+//mascota.map(function(mascota){
+    //console.log(mascota.id+" - "+mascota.nombre+" - "+mascota.descrip+" - ")
+//});
 
 
